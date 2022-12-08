@@ -1,0 +1,23 @@
+@import 'header';
+@import 'main-one';
+@import 'main-two';
+@import 'third-main';
+@import 'fourth-main';
+@import 'five-main';
+@import 'footer';
+
+*,*::before,*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1144px;
+    margin: 0 auto;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+}

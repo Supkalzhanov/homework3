@@ -1,0 +1,32 @@
+.five-main {
+    padding-top: 81px;
+    padding-bottom: 52px;
+}
+
+.five-main-block {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+}
+
+.five-main-block__first {
+    font-size: 30px;
+    line-height: 30px;
+    text-transform: uppercase;
+    color: #252525;
+}
+
+.five-main-block__two {
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 36px;
+    text-transform: uppercase;
+    color: #299CBD;
+}
+
+.five-main-block__third {
+    font-size: 23px;
+    line-height: 20px;
+    color: #4A4A4A;
+}

@@ -1,0 +1,28 @@
+.main-two {
+    margin-top: 47px;
+    padding-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap:25px;
+    padding-left: 50%;
+    background: url(../img/woman.svg) no-repeat;
+}
+
+.main-two__h2 {
+    font-weight: 900;
+    font-size: 30px;
+    line-height: 30px;
+    text-transform: uppercase;
+    color: #299CBD;
+}
+
+.main-two p {
+    font-size: 17px;
+    line-height: 27px;
+    color: #4A4A4A;
+}
+
+.main-tow__pBlack {
+    font-weight: bold;
+}

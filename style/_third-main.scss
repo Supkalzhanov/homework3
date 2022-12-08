@@ -1,0 +1,30 @@
+.third-main {
+    background: url(../img/hmainbg.svg) no-repeat;
+    padding-top: 86px;
+    padding-bottom: 68px;
+}
+
+.third-main__h2 {
+    font-size: 30px;
+    line-height: 30px;
+    text-transform: uppercase;
+    color: #EFEFEF;
+    text-align: center;
+}
+
+.third-main__blocks {
+    display: flex;
+    justify-content: space-between;
+}
+.third-main__block {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.third-main__block p {
+    margin-top: 26px;
+    font-size: 17px;
+    line-height: 20px;
+    color: #EFEFEF;
+    max-width: 220px;
+}
